@@ -1,0 +1,39 @@
+{
+  "name": "nativecountdowncircletimer",
+  "widgetName": "NativeCountdownCircleTimer",
+  "version": "1.0.0",
+  "description": "React Native countdown timer in a circle with color and progress animations",
+  "copyright": "© Mendix Technology BV 2022. All rights reserved.",
+  "author": "Bharathidasan",
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "MIT",
+  "config": {
+    "projectPath": "../../"
+  },
+  "packagePath": "mendix",
+  "scripts": {
+    "start": "pluggable-widgets-tools start:native",
+    "build": "pluggable-widgets-tools build:native",
+    "lint": "pluggable-widgets-tools lint",
+    "lint:fix": "pluggable-widgets-tools lint:fix",
+    "prerelease": "npm run lint",
+    "release": "pluggable-widgets-tools release:native"
+  },
+  "devDependencies": {
+    "@mendix/pluggable-widgets-tools": "^9.24.0",
+    "@types/big.js": "^6.0.2"
+  },
+  "dependencies": {
+    "react-native-countdown-circle-timer": "^3.2.1"
+  },
+  "resolutions": {
+    "react": "18.2.0",
+    "react-native": "0.70.7"
+  },
+  "overrides": {
+    "react": "18.2.0",
+    "react-native": "0.70.7"
+  }
+}
