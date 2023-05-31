@@ -56,11 +56,13 @@ Action can be called when the timer hits 0
 
 ## Screenshots:
 
-![Screenshot_1](https://github.com/bharathidas/Native-Countdown-Circle-Timer/assets/23263603/ae7771c7-81b7-4157-9cba-b03d226526be)
+![Screenshot_1](https://github.com/bharathidas/Native-Countdown-Circle-Timer/assets/23263603/09de3c05-1f63-4fd4-8020-2032d707fdbb)
 
-![Screenshot_2](https://github.com/bharathidas/Native-Countdown-Circle-Timer/assets/23263603/41240989-cafc-4e66-b685-98cd7abff90a)
+![Screenshot_2](https://github.com/bharathidas/Native-Countdown-Circle-Timer/assets/23263603/0419d13f-e844-40a1-8bff-84fb789e17b0)
 
-![Screenshot_3](https://github.com/bharathidas/Native-Countdown-Circle-Timer/assets/23263603/70f8512c-6bb8-4ed4-8bc9-fe0f16e29962)
+![Screenshot_3](https://github.com/bharathidas/Native-Countdown-Circle-Timer/assets/23263603/31c9429b-71ae-4225-9bb6-b8a8c40a7372)
+
+![Screenshot_4](https://github.com/bharathidas/Native-Countdown-Circle-Timer/assets/23263603/7a4dc19f-7a61-4e55-a2dd-9ff4e6c7e140)
 
 ![MobileScreen1](https://github.com/bharathidas/Native-Countdown-Circle-Timer/assets/23263603/7b320d5c-4d7f-4dbe-8c1d-6209eb9c61ac)
 
